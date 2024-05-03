@@ -1,0 +1,10 @@
+{
+    "DISTILBERT_MODEL": "distilbert/distilbert-base-uncased",
+    "PRE_TRAINED_MODEL": "assets/model_0.bin",
+    "CLASS_NAMES": [
+        "negative",
+        "neutral",
+        "positive"
+    ],
+    "MAX_SEQUENCE_LEN": 150
+}

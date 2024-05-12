@@ -1,6 +1,5 @@
-# sentiment-analysis-with-distilbert
+# Sentiment analysis for social media apps reviews
 
-## Sentiment analysis for social media apps reviews
 This project aims to classify user sentiments into positive, negative, or neutral categories.
 
 Every part of this project shows how to do the following:
